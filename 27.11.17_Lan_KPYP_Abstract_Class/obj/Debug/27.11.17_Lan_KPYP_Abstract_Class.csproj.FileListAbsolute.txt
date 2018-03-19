@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\НЕ ТРОГАТЬ!!!\27.11.17_Lan_KPYP_Abstract_Class\27.11.17_Lan_KPYP_Abstract_Class\bin\Debug\27.11.17_Lan_KPYP_Abstract_Class.exe.config
+C:\Users\User\Desktop\НЕ ТРОГАТЬ!!!\27.11.17_Lan_KPYP_Abstract_Class\27.11.17_Lan_KPYP_Abstract_Class\bin\Debug\27.11.17_Lan_KPYP_Abstract_Class.exe
+C:\Users\User\Desktop\НЕ ТРОГАТЬ!!!\27.11.17_Lan_KPYP_Abstract_Class\27.11.17_Lan_KPYP_Abstract_Class\bin\Debug\27.11.17_Lan_KPYP_Abstract_Class.pdb
+C:\Users\User\Desktop\НЕ ТРОГАТЬ!!!\27.11.17_Lan_KPYP_Abstract_Class\27.11.17_Lan_KPYP_Abstract_Class\obj\Debug\27.11.17_Lan_KPYP_Abstract_Class.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\НЕ ТРОГАТЬ!!!\27.11.17_Lan_KPYP_Abstract_Class\27.11.17_Lan_KPYP_Abstract_Class\obj\Debug\27.11.17_Lan_KPYP_Abstract_Class.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\НЕ ТРОГАТЬ!!!\27.11.17_Lan_KPYP_Abstract_Class\27.11.17_Lan_KPYP_Abstract_Class\obj\Debug\27.11.17_Lan_KPYP_Abstract_Class.exe
+C:\Users\User\Desktop\НЕ ТРОГАТЬ!!!\27.11.17_Lan_KPYP_Abstract_Class\27.11.17_Lan_KPYP_Abstract_Class\obj\Debug\27.11.17_Lan_KPYP_Abstract_Class.pdb

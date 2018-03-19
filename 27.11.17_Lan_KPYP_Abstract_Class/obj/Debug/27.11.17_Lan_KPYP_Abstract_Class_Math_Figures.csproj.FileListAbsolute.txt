@@ -1,0 +1,6 @@
+E:\C#\27.11.17_Lan_KPYP_Abstract_Class_Math_Figure\27.11.17_Lan_KPYP_Abstract_Class\bin\Debug\27.11.17_Lan_KPYP_Abstract_Class.exe.config
+E:\C#\27.11.17_Lan_KPYP_Abstract_Class_Math_Figure\27.11.17_Lan_KPYP_Abstract_Class\bin\Debug\27.11.17_Lan_KPYP_Abstract_Class.exe
+E:\C#\27.11.17_Lan_KPYP_Abstract_Class_Math_Figure\27.11.17_Lan_KPYP_Abstract_Class\bin\Debug\27.11.17_Lan_KPYP_Abstract_Class.pdb
+E:\C#\27.11.17_Lan_KPYP_Abstract_Class_Math_Figure\27.11.17_Lan_KPYP_Abstract_Class\obj\Debug\27.11.17_Lan_KPYP_Abstract_Class_Math_Figures.csproj.CoreCompileInputs.cache
+E:\C#\27.11.17_Lan_KPYP_Abstract_Class_Math_Figure\27.11.17_Lan_KPYP_Abstract_Class\obj\Debug\27.11.17_Lan_KPYP_Abstract_Class.exe
+E:\C#\27.11.17_Lan_KPYP_Abstract_Class_Math_Figure\27.11.17_Lan_KPYP_Abstract_Class\obj\Debug\27.11.17_Lan_KPYP_Abstract_Class.pdb
